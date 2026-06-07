@@ -2,15 +2,15 @@
 
 # 🎨 awesome-dtc-design
 
-<img src="./assets/hero.svg" alt="Terminal — claude --design @design-md/glossier/DESIGN.md loads a brand's color/type/spacing tokens → on-brand UI generated across 1,481 brands · 156 categories" width="820">
+<img src="./assets/hero.svg" alt="Terminal — claude --design @design-md/glossier/DESIGN.md loads a brand's color/type/spacing tokens → on-brand UI generated across 1,632 brands · 169 categories" width="820">
 
 ### Design systems your AI agent can actually read.
 
-**1,481 real direct-to-consumer brands** distilled into plain-text `DESIGN.md` token files — so the UI your coding agent generates looks like a *real brand*, not a bootstrap template.
+**1,632 real direct-to-consumer brands** distilled into plain-text `DESIGN.md` token files — so the UI your coding agent generates looks like a *real brand*, not a bootstrap template.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Brands](https://img.shields.io/badge/brands-1%2C481-0a0a0a)](./INDEX.md)
-[![Categories](https://img.shields.io/badge/categories-156-444444)](./INDEX.md)
+[![Brands](https://img.shields.io/badge/brands-1%2C632-0a0a0a)](./INDEX.md)
+[![Categories](https://img.shields.io/badge/categories-169-444444)](./INDEX.md)
 [![Built for AI coding agents](https://img.shields.io/badge/built%20for-AI%20coding%20agents-7c3aed)](#-quickstart)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3da639)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-3da639)](./CONTRIBUTING.md)
@@ -28,7 +28,7 @@ AI coding agents are great at *structure* and bad at *taste*. Ask one for a land
 
 A `DESIGN.md` fixes that. It's a single plain-text file that captures **one real brand's exact visual language** — its palette, type scale, spacing, radii, and component patterns — the specific decisions that make Glossier look like Glossier and Aesop look like Aesop. Drop it into your agent's context and the UI it produces inherits that whole system, token for token.
 
-> **This repo is 1,481 of them**, extracted from live DTC storefronts across **156 product categories** — from skincare and cookware to keyboards, record stores, and pizza ovens.
+> **This repo is 1,632 of them**, extracted from live DTC storefronts across **169 product categories** — from skincare and cookware to keyboards, record stores, and pizza ovens.
 
 **Who it's for** — design engineers prototyping on-brand UI · agencies pitching brand-faithful mockups · indie hackers who want their MVP to *not* look like an MVP · anyone building with Claude Code, Cursor, Copilot, or v0.
 
@@ -107,7 +107,7 @@ Nine sections, every file, in the same order — see the full spec in [`CONTRIBU
 
 ## 📚 The collection
 
-**1,481 brands · 156 categories · 12 domains.** Browse everything in **[`INDEX.md →`](./INDEX.md)**.
+**1,632 brands · 169 categories · 12 domains.** Browse everything in **[`INDEX.md →`](./INDEX.md)**.
 
 | Domain | Brands | Sample categories |
 |---|--:|---|
@@ -149,7 +149,7 @@ A few you'll recognize — each links to its full spec:
 | [**Peloton**](./design-md/peloton/DESIGN.md) | Near-black canvas with a single red voltage (`#df1c2f`) |
 | [**Dyson**](./design-md/dyson/DESIGN.md) | FoundryGridnik industrial sans — product-grade authority, on screen |
 
-**→ [Browse all 1,481 brands in `INDEX.md`](./INDEX.md)**
+**→ [Browse all 1,632 brands in `INDEX.md`](./INDEX.md)**
 
 ## 🛠️ How it's made
 
