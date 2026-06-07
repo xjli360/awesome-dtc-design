@@ -1,0 +1,24 @@
+# --- Python / system ---
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+node_modules/
+*.log
+
+# --- internal pipeline state (logs, queues, QA notes, dev helpers) ---
+_state/
+
+# --- local working notes (contain absolute machine paths) ---
+RESUME.md
+
+# --- root scratch template (use the README example + scripts/REFERENCE_DESIGN.md) ---
+/DESIGN.md
+
+# --- legacy / superseded brand folders (collection lives in design-md/) ---
+brands/
+kante/
+
+# --- disabled generator + raw source dump (data/brands.csv is the public artifact) ---
+scripts/worker.py
+data/ALL-SITES.csv
