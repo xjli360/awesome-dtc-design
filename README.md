@@ -2,6 +2,8 @@
 
 # 🎨 awesome-dtc-design
 
+<img src="./assets/hero.svg" alt="Terminal — claude --design @design-md/glossier/DESIGN.md loads a brand's color/type/spacing tokens → on-brand UI generated across 1,481 brands · 156 categories" width="820">
+
 ### Design systems your AI agent can actually read.
 
 **1,481 real direct-to-consumer brands** distilled into plain-text `DESIGN.md` token files — so the UI your coding agent generates looks like a *real brand*, not a bootstrap template.

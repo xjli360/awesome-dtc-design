@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" role="img" aria-label="Terminal: claude --design @design-md/glossier/DESIGN.md loads a brand's color, type and spacing tokens; output: on-brand UI generated across 1,481 brands and 156 categories.">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#ff5f56"/>
+      <stop offset="0.2" stop-color="#ffbd2e"/>
+      <stop offset="0.4" stop-color="#e6ef00"/>
+      <stop offset="0.6" stop-color="#3fb950"/>
+      <stop offset="0.8" stop-color="#58a6ff"/>
+      <stop offset="1"   stop-color="#bc8cff"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="6" y="6" width="848" height="248" rx="14" fill="url(#glow)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="34" cy="34" r="6.5" fill="#ff5f56"/>
+  <circle cx="56" cy="34" r="6.5" fill="#ffbd2e"/>
+  <circle cx="78" cy="34" r="6.5" fill="#27c93f"/>
+  <text x="104" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#6e7681">agent ▸ reads DESIGN.md ▸ ships on-brand UI</text>
+  <text x="826" y="39" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#484f58">awesome-dtc-design</text>
+
+  <!-- brand-spectrum divider -->
+  <rect x="20" y="56" width="820" height="2.5" rx="1.25" fill="url(#brand)" opacity="0.9"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <!-- command -->
+    <text x="34" y="98" font-size="19">
+      <tspan fill="#7ee787">❯ </tspan><tspan fill="#c9d1d9">claude </tspan><tspan fill="#8b949e">--design </tspan><tspan fill="#ffa657">@design-md/glossier/DESIGN.md</tspan>
+    </text>
+    <!-- comment -->
+    <text x="34" y="126" font-size="14" fill="#6e7681"># colors · type · spacing · radii → loaded into the model's context</text>
+
+    <!-- token chips (real brand palette) -->
+    <g font-size="13.5" font-weight="700" text-anchor="middle">
+      <rect x="34"  y="150" width="120" height="34" rx="17" fill="#dedede"/><text x="94"  y="172" fill="#0d1117">#dedede</text>
+      <rect x="166" y="150" width="120" height="34" rx="17" fill="#e83f42"/><text x="226" y="172" fill="#ffffff">#e83f42</text>
+      <rect x="298" y="150" width="120" height="34" rx="17" fill="#3d6957"/><text x="358" y="172" fill="#ffffff">#3d6957</text>
+      <rect x="430" y="150" width="120" height="34" rx="17" fill="#142b6f"/><text x="490" y="172" fill="#ffffff">#142b6f</text>
+      <rect x="562" y="150" width="120" height="34" rx="17" fill="#df1c2f"/><text x="622" y="172" fill="#ffffff">#df1c2f</text>
+      <rect x="694" y="150" width="120" height="34" rx="17" fill="#e6ef00"/><text x="754" y="172" fill="#0d1117">#e6ef00</text>
+    </g>
+
+    <!-- result -->
+    <text x="34" y="226" font-size="15">
+      <tspan fill="#7ee787">✓ </tspan><tspan fill="#c9d1d9">on-brand UI generated  </tspan><tspan fill="#6e7681">·  1,481 brands · 156 categories · 12 domains</tspan>
+    </text>
+    <rect x="672" y="213" width="10" height="18" fill="#7ee787">
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
