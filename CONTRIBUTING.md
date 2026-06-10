@@ -1,6 +1,6 @@
-# Contributing to awesome-dtc-design
+# Contributing to awesome-design-md-ecommerce
 
-This collection documents the design systems of 3,000 leading direct-to-consumer (DTC) e-commerce brands as plain-text `DESIGN.md` token files that AI agents can read to generate consistent, brand-faithful UI.
+This collection documents the design systems of 1,600+ leading direct-to-consumer (DTC) e-commerce brands as plain-text `DESIGN.md` token files that AI agents can read to generate consistent, brand-faithful UI.
 
 The format follows the [`awesome-design-md`](https://github.com/VoltAgent/awesome-design-md) specification.
 

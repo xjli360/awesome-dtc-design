@@ -22,7 +22,7 @@
   <circle cx="56" cy="34" r="6.5" fill="#ffbd2e"/>
   <circle cx="78" cy="34" r="6.5" fill="#27c93f"/>
   <text x="104" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#6e7681">agent ▸ reads DESIGN.md ▸ ships on-brand UI</text>
-  <text x="826" y="39" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#484f58">awesome-dtc-design</text>
+  <text x="826" y="39" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#484f58">awesome-design-md-ecommerce</text>
 
   <!-- brand-spectrum divider -->
   <rect x="20" y="56" width="820" height="2.5" rx="1.25" fill="url(#brand)" opacity="0.9"/>

@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎨 awesome-dtc-design
+# 🎨 awesome-design-md-ecommerce
 
 <img src="./assets/hero.svg" alt="Terminal — claude --design @design-md/glossier/DESIGN.md loads a brand's color/type/spacing tokens → on-brand UI generated across 1,632 brands · 169 categories" width="820">
 
 ### Design systems your AI agent can actually read.
 
-**1,632 real direct-to-consumer brands** distilled into plain-text `DESIGN.md` token files — so the UI your coding agent generates looks like a *real brand*, not a bootstrap template.
+**The largest `DESIGN.md` collection on GitHub — 1,632 real direct-to-consumer (DTC) e-commerce brands** distilled into plain-text token files, so the UI your coding agent generates looks like a *real brand*, not a bootstrap template.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Brands](https://img.shields.io/badge/brands-1%2C632-0a0a0a)](./INDEX.md)
@@ -14,7 +14,7 @@
 [![Built for AI coding agents](https://img.shields.io/badge/built%20for-AI%20coding%20agents-7c3aed)](#-quickstart)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3da639)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-3da639)](./CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/xjli360/awesome-dtc-design?style=social)](https://github.com/xjli360/awesome-dtc-design/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/xjli360/awesome-design-md-ecommerce?style=social)](https://github.com/xjli360/awesome-design-md-ecommerce/stargazers)
 
 [**Why**](#-why-this-exists) · [**See it**](#-see-it-in-action) · [**Quickstart**](#-quickstart) · [**The collection**](#-the-collection) · [**Full index →**](./INDEX.md) · [**Contribute**](./CONTRIBUTING.md)
 
@@ -28,7 +28,7 @@ AI coding agents are great at *structure* and bad at *taste*. Ask one for a land
 
 A `DESIGN.md` fixes that. It's a single plain-text file that captures **one real brand's exact visual language** — its palette, type scale, spacing, radii, and component patterns — the specific decisions that make Glossier look like Glossier and Aesop look like Aesop. Drop it into your agent's context and the UI it produces inherits that whole system, token for token.
 
-> **This repo is 1,632 of them**, extracted from live DTC storefronts across **169 product categories** — from skincare and cookware to keyboards, record stores, and pizza ovens.
+> **This repo is 1,632 of them — 20× more than any other `DESIGN.md` collection** — extracted from live DTC storefronts across **169 product categories**, from skincare and cookware to keyboards, record stores, and pizza ovens.
 
 **Who it's for** — design engineers prototyping on-brand UI · agencies pitching brand-faithful mockups · indie hackers who want their MVP to *not* look like an MVP · anyone building with Claude Code, Cursor, Copilot, or v0.
 
@@ -168,7 +168,7 @@ PRs welcome — one brand per PR. Pick a genuinely DTC brand, add `design-md/<sl
 
 ## 🔗 Related
 
-- [`awesome-design-md`](https://github.com/VoltAgent/awesome-design-md) — the original `DESIGN.md` format and spec this project follows.
+- [`awesome-design-md`](https://github.com/VoltAgent/awesome-design-md) — the original `DESIGN.md` format and spec this project follows. It curates ~73 developer-focused sites; this list is its e-commerce counterpart — **1,632 brands across 169 categories**, the long tail of real storefronts.
 
 ## 📄 License
 

@@ -11,8 +11,8 @@ You are processing ONE DTC brand site to produce a `DESIGN.md` token file.
 - **products_hint** (from CSV, optional): {{products}}
 
 ## Output
-- **Write to**: `/Users/jieli/Code/awesome-dtc-design/design-md/{{slug}}/DESIGN.md`
-- **Reference format**: `/Users/jieli/Code/awesome-dtc-design/scripts/REFERENCE_DESIGN.md` — match this structure **exactly** (YAML frontmatter, then YAML blocks for `colors`, `typography`, `rounded`, `spacing`, `components`, then Markdown sections `## Components`, `## Responsive Behavior`, `## Known Gaps`).
+- **Write to**: `/Users/jieli/Documents/Code/awesome-design-md-ecommerce/design-md/{{slug}}/DESIGN.md`
+- **Reference format**: `/Users/jieli/Documents/Code/awesome-design-md-ecommerce/scripts/REFERENCE_DESIGN.md` — match this structure **exactly** (YAML frontmatter, then YAML blocks for `colors`, `typography`, `rounded`, `spacing`, `components`, then Markdown sections `## Components`, `## Responsive Behavior`, `## Known Gaps`).
 
 ## Workflow (3 roles, sequenced)
 
